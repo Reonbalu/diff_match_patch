@@ -1,2 +1,2 @@
-# diff_match_patch
+# diff-match-patch
 Created with CodeSandbox

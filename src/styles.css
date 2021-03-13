@@ -1,0 +1,9 @@
+.difftext {
+  width: 550px;
+  line-height: 32px;
+  border-radius: 4px;
+  border: 1px black;
+  padding: 0 16px;
+  color: black;
+  background: rgb(245, 241, 248);
+}
