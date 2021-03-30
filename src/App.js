@@ -93,6 +93,7 @@ export default function App() {
             <Form.Group>
               <h6>Diff</h6>
               <div
+                contentEditable="true"
                 className="difftext"
                 dangerouslySetInnerHTML={{
                   __html: dmp.diff_prettyHtml(originalDiff)
